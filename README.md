@@ -13,8 +13,3 @@ GITHUB
 ### How to run the project? :
 
 clone the repository and right cklick on index.js and then choose open with live server and enjoy  
-
-### Links
- - [Backend repository](https://github.com/ASREEN/password-generator-Backend)
-
- - [Live App](https://password-generator-2921.netlify.app/)
