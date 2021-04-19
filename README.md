@@ -8,7 +8,7 @@ HTML5
 css
 
 ### Deployment
-Netlify
+GITHUB
 
 ### How to run the project? :
 
